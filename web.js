@@ -2,7 +2,7 @@
 
 var express = require("express");
 var fs = require ('fs');
-var htmlfile="index.html";
+var htmlfile="bootstrap/index.html";
 
 var app = express(express.logger());
 
